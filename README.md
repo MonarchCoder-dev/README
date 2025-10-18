@@ -1,4 +1,3 @@
-# README
 <h1 align="center">Hello👋 What's Up?</h1>
 
 ###
