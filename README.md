@@ -1,9 +1,6 @@
 <h1 align="left">Hello, World👋 What's Up?!</h1>
 
-
 <h2 align="left">Stack Tecnologies</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
